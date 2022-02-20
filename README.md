@@ -1,5 +1,14 @@
-stratum-mining
-==============
+# Bitcoin stratum-mining
+
+
+-------------------------
+### Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 
 Demo implementation of bitcoin mining pool using Stratum mining protocol.
 
