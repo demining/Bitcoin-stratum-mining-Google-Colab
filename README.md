@@ -19,3 +19,10 @@ Contact
 
 This pool implementation is provided by http://mining.bitcoin.cz. You can contact
 me by email info(at)bitcoin.cz or on IRC #stratum on freenode.
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
